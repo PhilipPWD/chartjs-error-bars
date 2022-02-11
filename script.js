@@ -31,7 +31,7 @@ $(document).ready(function() {
   var X_AXIS = 'Geography'; 
   
   // y-axis label and label in tooltip
-  var Y_AXIS = 'US Dollars';
+  var Y_AXIS = 'USD';
 
   // `true` to show the grid, `false` to hide
   var SHOW_GRID = true;
